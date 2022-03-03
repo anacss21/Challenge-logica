@@ -1,7 +1,6 @@
 // Filtro de caracteres: Faça um programa que percorra um
 // array com nomes de cidades e retorne um novo array somente com nomes
 // que contenham até 8 caracteres.
-
 const cidades = [
   "Salvador",
   "São Paulo",
