@@ -1,5 +1,3 @@
-//Crie uma função que localize um endereço em um array através do CEP e imprima o nome da rua.
-
 function acharCep(cep) {
   const enderecos = [
     { cep: 00111222, rua: "Rua dos Artistas" },
