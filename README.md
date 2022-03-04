@@ -4,9 +4,6 @@
 
 #### Exercícios - Callbacks
 
-**1**-Filtro de caracteres / Filtro de números positivos / Filtro de números pares/ Filtro de nome por letra / Filtro de números únicos / Busca de CEP
-**2**-Modificando um array
-**3**-Filtro de usuários
-**4**-Temporizador de jogos
+#### Exercícios - Sort e outros metodos
 
 <!-- #### Testes processo Seletivo  -->
