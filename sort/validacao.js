@@ -6,6 +6,7 @@ const cidades = [
   "Rio de Janeiro",
 ];
 // console.log(cidades.reduce((x, y) => (x.length > y.length ? x : y)));
+
 console.log(
   cidades.reduce((x, y) => {
     if (x.length > y.length) {
